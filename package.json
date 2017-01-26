@@ -1,0 +1,23 @@
+{
+  "name": "od",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnwangjie"
+  },
+  "keywords": [],
+  "author": "cnwangjie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnwangjie/issues"
+  },
+  "homepage": "https://github.com/cnwangjie/#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
